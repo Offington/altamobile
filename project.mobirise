@@ -1,0 +1,1066 @@
+{
+  "settings": {
+    "name": "Alta Mobile Friendly 01",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#2969b0",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 26,
+    "versionPublish": "3.9.2",
+    "publishType": "github",
+    "publishPath": "@PROJECT_PATH@",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#942d29"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#942d29"
+            },
+            ".link, .dropdown-item": {
+              "color": "#942d29",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-family": "'Roboto Slab', serif"
+            },
+            ".link": {
+              "font-size": "1.4rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.516rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#942d29",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Roboto Slab",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "css": "'Roboto Slab', serif"
+            },
+            "fontColor": "#942d29",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/altalogo1a-256x107-306x128-44.png",
+              "height": 128,
+              "alt": "Alta Ireland",
+              "link": "http://www.altairelend.eu",
+              "title": "Internet Marketing Specialists",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">+353 (0)1 886 4048</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary btn-block\">CONTACT US</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures2",
+          "_styles": {
+            "H2": {
+              "color": "#942d29",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "extFeatures2-g",
+          "_params": {
+            "elements": "4",
+            "iconsColor": "#333333",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures2_bg.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showIcons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/altaphone4-381x770-48.png",
+              "link": "https://www.google.ie/webmasters/tools/mobile-friendly/",
+              "alt": "How Mobile Friendly Is Your Website?",
+              "title": "Test Your Website With Google",
+              "linkInNewWindow": true
+            }
+          },
+          "title": "IS YOUR WEBSITE REALLY MOBILE FRIENDLY?",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "hardware-phone-iphone",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title1": "HAS IT A RESPONSIVE LAYOUT?",
+          "text1": "This allows your site’s important details to display properly on different devices. The goal is to ensure users enjoy a similar-quality browsing experience no matter how they view your site.<br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "thumbs-up",
+              "family": "FontAwesome",
+              "active": true,
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title2": "DOES IT WORK ON THUMBCLICKS?",
+          "text2": "With so many people using their smartphones to check out websites and shop online, your mobile-friendly website must cater to this trend. Can your site's users can get where they need to go by thumb-clicking the links. An avid phone user wants to navigate sites with only his or her “phone hand.\" ",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "file-o",
+              "family": "FontAwesome",
+              "active": true,
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title3": "IS ITS LAYOUT CLEAN?",
+          "text3": "You won’t get great results from your website on any platform if the layout isn't clean and unfussy. If your site is a big jumble of text and graphics, it's hard for users to scroll through and identify what they need. Keep in mind people stay on a landing page for a few seconds at most to see if a site can meet their needs.",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "google",
+              "family": "FontAwesome",
+              "active": true,
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title4": "ARE YOU LOSING OUT ON GOOGLE?",
+          "text4": "Google have already decided to use mobile-friendliness as a website ranking signal in their algorithms -- if your website isn't mobile-friendly, then you could be excluded when someone uses Google to search on a smartphone or a tablet.."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO ARRANGE A CHAT</a>",
+          "text": "We Can Create an Awesome Mobile-Friendly Website for You.<br>Or Upgrade Your Existing Website To A Mobile Friendly One.<br>Click Opposite To Enter Your Details And We'll Call You To Arrange To Talk.",
+          "title": "TALK TO ALTA IRELAND<br>01 886 4048",
+          "_customHTML": "<section class=\"mbr-info mbr-info-extra mbr-section mbr-section-md-padding\" style=\"background-color: rgb(255, 255, 255); padding-top: 90px; padding-bottom: 90px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n\n            \n\n\n            <div class=\"mbr-table-md-up\">\n                <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                    <h2 class=\"mbr-info-subtitle mbr-section-subtitle mbr-editable-content\" code-editable-id=\"40\">We Can Create an Awesome Mobile-Friendly Website for You.<br>Or Upgrade Your Existing Website To A Mobile Friendly One.<br>Click Opposite To Enter Your Details And We'll Call You To Arrange To Talk.</h2>\n                    <h3 class=\"mbr-info-title mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"41\">TALK TO ALTA IRELAND<br>01 886 4048</h3>\n                </div>\n\n                <div class=\"mbr-table-cell col-md-4\">\n                    <div class=\"text-xs-center\"><a class=\"btn btn-secondary mbr-editable-button\" data-toggle=\"modal\" data-target=\"#myModal\" code-editable-id=\"42\">CLICK HERE TO ARRANGE A CHAT</a></div>\n                </div>\n            </div>\n\n\n        </div>\n    </div>\n</section>\n\n\n<!-- Modal -->\n<div class=\"modal fade\" id=\"myModal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"myModalLabel\">\n  <div class=\"modal-dialog\" role=\"document\">\n    <div class=\"modal-content\">\n      <div class=\"modal-header\">\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">×</span></button>\n        <h4 class=\"modal-title\" id=\"myModalLabel\">If You'd Like Us To Call You and Arrange a Chat, Just Fill In Your Details Below</h4>\n      </div>\n      <div class=\"modal-body\">\n        <form action=\"mail.php\" method=\"POST\">\n            <div class=\"form-group\">\n            <input type=\"text\" class=\"form-control\" placeholder=\"Your Full Name\" name=\"name\">\n            </div>\n            <div class=\"form-group\">\n            <input type=\"text\" class=\"form-control\" placeholder=\"Your Organisation\" name=\"org\">\n            </div>\n            <div class=\"form-group\">\n            <input type=\"email\" class=\"form-control\" placeholder=\"Your EMail Address\" name=\"email\">\n            </div>\n            <div class=\"form-group\">\n            <input type=\"tel\" class=\"form-control\" placeholder=\"Your Phone Number\" name=\"phone\">\n            </div>\n            <div class=\"form-group\">\n            <textarea class=\"form-control\" rows=\"5\" placeholder=\"Your Message\" name=\"message\">            </textarea>\n            </div>\n            <div class=\"form-group\">\n            <input type=\"submit\" class=\"form-control btn btn-lg btn-primary\" value=\"Submit\">\n            </div>\n            </form>\n      </div>\n      \n    </div>\n  </div>\n</div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);\nH3 {\n\tcolor: #942d29;\n\tfont-family: 'Roboto Slab', serif;\n\tfont-size: 48px;\n}\nH2 {\n\tcolor: #000000;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "msg-box1-i"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "24px",
+              "color": "#942d29"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "msg-box5-c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://vimeo.com/193716883",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Why Have A Mobile Friendly Website?",
+          "text": "<b>Billions of times per day, consumers turn to Google for I want-to-know, I want-to-go, I want-to-do, and I want-to-buy moments. And at these times, consumers are increasingly picking up their smartphones for answers. In fact, more Google searches take place on mobile devices than on computers in most countries including the US, the UK, Ireland and Japan. – <i>Google</i></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "60px",
+              "color": "#942d29"
+            },
+            "SMALL": {
+              "color": "#28324e"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "WHAT DO YOU GET?",
+          "meta": "It is so important to reach your prospects and customes when you own a website. In this digital age that means making sure people on mobile devices can find and browse your site. It also means making sure they remain as happy as possible during that experience.&nbsp;<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "WEBSITE RANK<br><i>EXTENSIVE REACH</i><br>CREDIBILITY<br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Google's algorithm change has tweaked the way that Google displays mobile search results. Websites that are optimized for mobile rank better than those who don’t – plain and simple. <br><br>People use Mobile because it’s fast and easy. Consumers in every industry want to connect and get what they’re looking for quickly. If you’re not optimized for mobile, you can’t offer your customers that type of experience.<br><br>Whether you’re selling B2B or B2C, with a mobile-friendly website, anyone who tries to visit your site on a mobile device will have a proper experience, and that will encourage them to see you as a credible resource for information, products and services. <br> ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title2": "BEST PRACTICE<br>HAPPIER USERS<br>GOOGLE PRIORITY",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Responsive web design has made mobile optimization more accessible to everyone, and that means users have begun to expect this level of functionality to come as standard when browsing on their mobile devices. <br><br>When a customer or a potential customer accesses your site to find information or look for something you sell, you want the experience to be nothing short of great. Happy customers will return to your site and tell others about how great it is.<br><br>When Google recommends you do something, you should really try to do it. This is the case with making websites mobile-friendly. Google has explained why mobile is so important in their own words, Everyone has smartphones, and they use them to search.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "GREAT LOOKS<br>REPUTATION<br>RELEVANCE<br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Why take chances when it comes to mobile optimisation? Your website will respond to the mobile device a person is using to access your site, and it will render it to look and function well, no matter what.<br><br>Not just online, but offline as well. People share websites they have a great experience with – and they will also take note of a website they have a bad experience with. Reputation is everything, and most businesses can’t afford to give a bad experience.<br><br>You might offer some of the most useful, valuable, and unique products or services on the market, but if your website’s mobile experience is poor or non-existent, your company will be seen as a digital dinosaur – encouraging people to seek help elsewhere.&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "ANALYTICS<br>EMAIL STATS<br>GOOGLE ANALYTICS<br>OTHER STATS",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Besides Open &amp; Bounce rates, you get a complete list of those people who open your email andwho click your call-to-action.<br><br>We  include standard Google Analytics code in your landing pages, so you get access to the full breadth of Google Analytics.<br><br>We also provide details of those people who unsubscribe from your lists, so that you can respond accordingly.&nbsp;<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".card-block p": {
+              "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "color": "#942d29",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "60px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "24px",
+              "color": "#28324e"
+            },
+            ".card-block P": {
+              "color": "#000000"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials4",
+          "_params": {
+            "showTitle": true,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "slides": [
+              {
+                "active": false,
+                "text": "<p>I really appreciate how responsive, helpful and supportive you have been throughout – it has been such a good experience working with you! I’ll be sure to recommend you to others.”</p>",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                    "class": "img-circle",
+                    "link": "http://www.altaireland.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Mary S.",
+                "authorBio": "Solicitor"
+              },
+              {
+                "active": true,
+                "text": "<p>My experiences with Alta Ireland have been positive throughout. They respond quickly to my questions and requests for support, and have done a great job with our website.”</p>",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/business-man-156x160-39.png",
+                    "class": "img-circle",
+                    "link": "http://www.altaireland.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Des McE.",
+                "authorBio": "CEO"
+              },
+              {
+                "active": false,
+                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/man-on-ipad-117x160-29.png",
+                    "class": "img-circle",
+                    "link": "http://www.altaireland.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Alan S.",
+                "authorBio": "MD"
+              },
+              {
+                "active": false,
+                "text": "<p>\"We needed a website that was simple and easy to use, yet engaging and attractive. From start to finish,  working with the people at Alta Ireland has always been a pleasure. \"</p>",
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/face4.jpg",
+                    "class": "img-circle",
+                    "link": "http://www.altaireland.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Mark F.",
+                "authorBio": "Owner"
+              }
+            ],
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showSubtitle": true,
+            "showBullets": true,
+            "visibleSlides": "4"
+          },
+          "_anchor": "extTestimonials4-9",
+          "title": "What our Clients say",
+          "subtitle": "Some Of The Testimonials We Have Received."
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "48px",
+              "color": "#942d29"
+            },
+            ".intro-box h5 B": {
+              "font-size": "16px"
+            },
+            ".intro-box h5": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "extForm1-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "iconsColor": "#333333",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showContacts": true,
+            "showIcons": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary mbr-editable-button\">CLICK HERE TO ARRANGE A CHAT</a>"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/map2-571x783-0.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "link": "@ADDONS_PATH@/mobirise3-blocks/components/_images/play-button.svg",
+              "color": "@primaryColor"
+            }
+          },
+          "title": "CONTACT US",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "user",
+              "family": "FontAwesome",
+              "active": true,
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title1": "An Appointment?",
+          "subTitle1": "<b>We'll Be Delighted</b>",
+          "text1": "Phone: +353 (0)1 886 4048<br> Email: info@altaireland.com",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "FontAwesome",
+              "active": true,
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title2": "Visit Us",
+          "subTitle2": "<b>You're Very Welcome</b>",
+          "text2": "19c Rosemount Business Park&nbsp;<br> Dublin 11",
+          "form": {
+            "action": "newman.gerry@gmail.com",
+            "alerts": {
+              "success": "Thank you. We'll Be In Contact"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-b",
+          "_params": {
+            "progress": "100",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "showLogo": true,
+            "showTitle": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/alta-logo1-1400x174-45.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MOBIRISE",
+          "list": "<ul><li><a href=\"http://www.altaireland.com\" class=\"text-white\">Copyright 2016-17 Alta Ireland. All Rights Reserved</a></li></ul>"
+        }
+      ]
+    },
+    "thankyou.html": {
+      "settings": {
+        "title": "Thank You"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#942d29"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#942d29"
+            },
+            ".link, .dropdown-item": {
+              "color": "#942d29",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-family": "'Roboto Slab', serif"
+            },
+            ".link": {
+              "font-size": "1.4rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.516rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#942d29",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Roboto Slab",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "css": "'Roboto Slab', serif"
+            },
+            "fontColor": "#942d29",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/altalogo1a-256x107-306x128-44.png",
+              "height": 128,
+              "alt": "Alta Ireland",
+              "link": "http://www.altairelend.eu",
+              "title": "Internet Marketing Specialists",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">+353 (0)1 886 4048</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-k",
+          "_params": {
+            "progress": "100",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "showLogo": true,
+            "showTitle": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/alta-logo1-1400x174-45.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MOBIRISE",
+          "list": "<ul><li><a href=\"http://www.altaireland.com\" class=\"text-white\">Copyright 2016-17 Alta Ireland. All Rights Reserved</a></li></ul>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-m",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgText": "Thank You",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": 250,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader11_bg.jpg",
+            "bgColor": "#3d3d3d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "THANK YOU",
+          "text": "We will be in contact as soon as we can.<br><br>In the meantime, click one of the options below",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK TO OUR LANDING PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://www.google.ie\" data-toolbar=\"-mbrBtnMove\">GOOGLE</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://www.altaireland.com\" data-toolbar=\"-mbrBtnMove\">ALTA IRELAND WEBSITE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm1",
+          "_styles": {
+            "H2": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "48px",
+              "color": "#942d29"
+            },
+            ".intro-box h5 B": {
+              "font-size": "16px"
+            },
+            ".intro-box h5": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "extForm1-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "iconsColor": "#333333",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/gerrymac/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extForm1_bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showContacts": true,
+            "showIcons": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary mbr-editable-button\">CLICK HERE TO ARRANGE A CHAT</a>"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/map2-571x783-00.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "link": "file:///Users/gerrymac/Library/Application%20Support/Mobirise.com/Mobirise/projectData/play-button.svg",
+              "color": "@primaryColor"
+            }
+          },
+          "title": "CONTACT US",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "user",
+              "family": "FontAwesome",
+              "active": true,
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title1": "An Appointment?",
+          "subTitle1": "<b>We'll Be Delighted</b>",
+          "text1": "Phone: +353 (0)1 886 4048<br> Email: info@altaireland.com",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-form1",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "FontAwesome",
+              "active": true,
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title2": "Visit Us",
+          "subTitle2": "<b>You're Very Welcome</b>",
+          "text2": "19c Rosemount Business Park&nbsp;<br> Dublin 11",
+          "form": {
+            "action": "newman.gerry@gmail.com",
+            "alerts": {
+              "success": "Thank you. We'll Be In Contact"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>"
+        }
+      ]
+    }
+  }
+}
